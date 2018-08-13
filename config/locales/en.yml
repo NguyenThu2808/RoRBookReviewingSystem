@@ -1,0 +1,118 @@
+en:
+  static_pages:
+    home:
+      title: "Book FRAMGIA"
+      slogan: "Welcome to Book FRAMGIA"
+    help:
+      title: "Help User"
+  layouts:
+    header:
+      title: "BOOK FRAMGIA"
+      sign_up: "Sign Up"
+      list_book: "List Book"
+      more: More
+      book_1 : "Type Book"
+      rank: "Top Follow BOOK"
+      name1: "[HAN-OE9-R]Nguyen Thanh Cong"
+      button_link_home: "sample app"
+      button_home: "Home"
+      button_help: "Help"
+      button_login: "Log in"
+      button_logout: "Log out"
+      account: "Account"
+      users: "Users"
+      profile: "Profile"
+      settings: "Settings"
+    footer:
+      about: "About"
+      guide: "User Guide"
+      feedback: "Feedback"
+      contact: "Contact Us"
+      address: "13F Keangnam Landmark 72 Tower, Plot E6, Pham Hung Road, Nam Tu Liem, Ha Noi, Viet Nam."
+      email: "education@framgia.com"
+      phone: "84-4-3795-5417"
+      social: "Social"
+    application:
+      base_title: "Book FRAMGIA"
+  users:
+    new:
+      create_account: "Create my account"
+      sign_up: "Sign up"
+      title: "Sign up"
+    form:
+      confirm: "Confirmation"
+    create:
+      welcome: "Welcome to the Sample App!"
+      check_email_link: "Please check your email to activate your account."
+    show:
+      not_found: "The user didn't found"
+    edit:
+      edit_user: "Edit user"
+      save_changes: "Save changes"
+      change: "change"
+      update: "Update your profile"
+      login_request: "Please log in"
+      account_activated: "Account activated!"
+      invalid_activation_link: "Invalid activation link"
+    update:
+      profile: "Profile updated"
+    index:
+      title: "All users"
+      delete: "delete"
+      login_request: "Please log in"
+    destroy:
+      user_deleted: "User deleted"
+      delete_fail: "Delele fail"
+      login_request: "Please login"
+    user:
+      you_sure: "You sure?"
+  shared:
+    error_messages:
+      error: "error"
+      the_form_contains: "The form contains"
+  sessions:
+    new:
+      login: "Log in"
+      new_user: "New user"
+      signup_now: "Sign up now!"
+      remember_me: "Remember me on this computer"
+      forgot_password: "(Forgot password)"
+    create:
+      invalid: "Invalid email/password combination"
+      account_not_activated_check_email_link: "Account not activated. Check your email for the activation link."
+      invalid_combination: "Invalid email/password combination"
+  user_mailer:
+    account_activation:
+      sampleapp: "Sample App"
+      welcome_click_link: "Welcome to the Sample App!
+        Click on the link below to activate your account:"
+      activate: "Activate"
+      hi: "Hi"
+      account_acctivation: "Account acctivation"
+    password_reset:
+      password_reset: "Password_reset"
+      hi: "Hi"
+      link_expire: "This link will expire in two hours."
+      click_link: "To reset your password click the link below:"
+  account_activations:
+    edit:
+      not_found: "Not found"
+      account_activated: "Account activated!"
+      invalid_activation_link: "Invalid activation link"
+  password_resets:
+    new:
+      forgot_password: "Forgot password"
+      submit: "Submit"
+    edit:
+      reset_password: "Reset password"
+      update_password: "Update password"
+      confirmation: "Confirmation"
+    create:
+      email_password_reset: "Email sent with password reset instructions"
+      email_not_found: "Email address not found"
+      account_not_activated: "Account not activated"
+    update:
+      password_reset: "Password has been reset."
+      can't_empty: "can't be empty"
+      password_reset_expired: "Password reset has expired."
+      account_not_activated: "Account not activated"
